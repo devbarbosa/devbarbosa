@@ -29,6 +29,14 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" heigth="50" width="50"/>
 </div><br /><br />
 
+## Contact me
+<div style="display: inline_block"><br />
+  <a href = "mailto:bruno.b.madureira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-barbosa-madureira-28572583/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div><br>
+
 
 Passionate about technology, I always try to be connected and learn more and more.<br />
+
+![Snake animation](https://github.com/devbarbosa/devbarbosa/blob/output/github-contribution-grid-snake.svg)
 
