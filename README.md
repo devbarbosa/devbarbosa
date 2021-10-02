@@ -1,5 +1,5 @@
 
-### Hellow ! I am Bruno Barbosa 👋
+### Hello! I am Bruno Barbosa 👋
 
 <diV>
   
